@@ -22,6 +22,7 @@ Check out the deployed application here:
 ![Screenshot](https://github.com/shellytr/recipe-sharing-meal-planning-app/blob/main/plated-ten.vercel.app_meal-planner%20(1).png?raw=true)
 ![Screenshot](https://github.com/shellytr/recipe-sharing-meal-planning-app/blob/main/plated-ten.vercel.app_meal-planner.png?raw=true)
 ![Screenshot](https://github.com/shellytr/recipe-sharing-meal-planning-app/blob/main/plated-ten.vercel.app_meal-planner%20(2).png?raw=true)
+![Screenshot](https://github.com/shellytr/recipe-sharing-meal-planning-app/blob/main/plated-ten.vercel.app_recipes_recipes-creator.png?raw=true)
 
 ## 📫 Contact Me
 Feel free to connect with me for further discussion or collaboration:
