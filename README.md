@@ -18,6 +18,10 @@ Check out the deployed application here:
 - **Database:** MongoDB
 - **Deployment:** Vercel
 
+- ## 📸 Screenshots
+
+![Screenshot](https://github.com/shellytr/recipe-sharing-meal-planning-app/blob/main/plated-ten.vercel.app_meal-planner.png?raw=true)
+
 ## 📫 Contact Me
 Feel free to connect with me for further discussion or collaboration:
 - **Email:** shellytrifonov1@gmail.com
